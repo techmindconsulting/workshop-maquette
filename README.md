@@ -1,1 +1,1 @@
-# workshop-maquette
+# Maquettes à integrer en HTML/CSS
